@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy]([https://github-profile-trophy.vercel.app/?username=vanhoras](https://github-profile-trophy.vercel.app/?username=vanhoras&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B))](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Vanhoras/vanhoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
