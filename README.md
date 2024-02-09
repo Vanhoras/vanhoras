@@ -4,7 +4,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-vanhoras-projects.vercel.app//api/top-langs/?username=vanhoras&layout=donut&theme=radical)](https://github-readme-stats-vanhoras-projects.vercel.app/)
+[![Top Langs](https://github-readme-stats-vanhoras-projects.vercel.app/api/top-langs/?username=vanhoras&layout=donut&theme=radical&count-private=true)](https://github-readme-stats-vanhoras-projects.vercel.app/)
 
 <br />
 
