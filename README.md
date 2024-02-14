@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my personal github 👋
+(This github does not inlcude my professional projects)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanhoras&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
