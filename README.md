@@ -4,9 +4,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vanhoras&theme=monokai&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
-
+<!--
 [![Top Langs](https://github-readme-stats-git-master-vanhoras-projects.vercel.app/api/top-langs/?username=vanhoras&layout=donut&theme=radical&count-private=true)](https://github-readme-stats-git-master-vanhoras-projects.vercel.app/)
-
+-->
 <br />
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M7U9BSH)
